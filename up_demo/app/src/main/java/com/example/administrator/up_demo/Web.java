@@ -1,5 +1,4 @@
 package com.example.administrator.up_demo;
-
 import android.content.ContentResolver;
 import android.content.Intent;
 import android.database.Cursor;
@@ -15,13 +14,9 @@ import android.webkit.WebView;
 import android.webkit.WebViewClient;
 import android.widget.ImageView;
 import android.widget.TextView;
-
 import com.tangxiaolv.telegramgallery.GalleryActivity;
-
-
 import java.util.ArrayList;
 import java.util.List;
-
 
 public class Web extends AppCompatActivity implements View.OnClickListener{
     private static final int REQUEST_CODE = 732;
