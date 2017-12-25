@@ -14,6 +14,29 @@ public class MainActivity extends AppCompatActivity {
 
         Toast.makeText(this, "你好", Toast.LENGTH_SHORT).show();
         Log.e("ccccc","xxxxxx");
+   Toast.makeText(this, "你好", Toast.LENGTH_SHORT).show();
+        Log.e("ccccc","xxxxxx");
+   Toast.makeText(this, "你好", Toast.LENGTH_SHORT).show();
+        Log.e("ccccc","xxxxxx");
+   Toast.makeText(this, "你好", Toast.LENGTH_SHORT).show();
+        Log.e("ccccc","xxxxxx");
+   Toast.makeText(this, "你好", Toast.LENGTH_SHORT).show();
+        Log.e("ccccc","xxxxxx");
+   Toast.makeText(this, "你好", Toast.LENGTH_SHORT).show();
+        Log.e("ccccc","xxxxxx");
+   Toast.makeText(this, "你好", Toast.LENGTH_SHORT).show();
+        Log.e("ccccc","xxxxxx");
+   Toast.makeText(this, "你好", Toast.LENGTH_SHORT).show();
+        Log.e("ccccc","xxxxxx");
+   Toast.makeText(this, "你好", Toast.LENGTH_SHORT).show();
+        Log.e("ccccc","xxxxxx");
+   Toast.makeText(this, "你好", Toast.LENGTH_SHORT).show();
+        Log.e("ccccc","xxxxxx");
+   Toast.makeText(this, "你好", Toast.LENGTH_SHORT).show();
+        Log.e("ccccc","xxxxxx");
+
+
+
 
     }
 }
